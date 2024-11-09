@@ -1,15 +1,15 @@
 CODE MONKEY C#
--------------------------------------------------
+
 #### [BEGINNER 3:56:50](https://youtu.be/pReR6Z9rK-o)
 
 |timecode|subject|
 | ------ | ------ |
 |00:00:00|Intro|
 |00:07:01|Course Overview|
-00:00:13:23 What is C#?
-00:14:59 How to get Help
+|00:13:23|What is C#?|
+|00:14:59|How to get Help|
 00:18:20 Getting Started with Visual Studio
-00:00:25:16 Unity Install and Basics
+00:25:16 Unity Install and Basics
 00:36:57 How the Companion Project works
 00:42:40 Common Errors
 00:54:20 Programming Basics

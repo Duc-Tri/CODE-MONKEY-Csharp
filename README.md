@@ -10,11 +10,11 @@ CODE MONKEY C#
 |00:14:59|How to get Help|
 |00:18:20|Getting Started with Visual Studio|
 |00:25:16|Unity Install and Basics|
-00:36:57 How the Companion Project works
-00:42:40 Common Errors
-00:54:20 Programming Basics
-01:01:55 Variables
-01:09:22 Variables Companion Project Walkthrough
+|00:36:57|How the Companion Project works|
+|00:42:40|Common Errors|
+|00:54:20|Programming Basics|
+|01:01:55|Variables|
+|01:09:22|Variables Companion Project Walkthrough|
 01:30:30 Data Types
 01:47:35 If statements, Conditions
 02:02:38 Switch

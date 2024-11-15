@@ -15,7 +15,7 @@ CODE MONKEY C#
 |00:54:20|Programming Basics|
 |01:01:55|Variables|
 |01:09:22|Variables Companion Project Walkthrough|
-01:30:30 Data Types
+|01:30:30|Data Types|
 01:47:35 If statements, Conditions
 02:02:38 Switch
 02:06:10 Functions
@@ -32,7 +32,7 @@ CODE MONKEY C#
 03:53:35 Beginner Summary
 03:55:32 Outro
 
-#### [INTERMEDIATE](https://youtu.be/I6kx-_KXNz4)
+#### [INTERMEDIATE 4:08:38](https://youtu.be/I6kx-_KXNz4)
 
 |timecode|subject|
 | ------ | ------ |
@@ -69,7 +69,7 @@ CODE MONKEY C#
 03:42:43 Intermediate Project
 04:07:40 Outro
 
-#### [ADVANCED](https://youtu.be/6G-4oPDxfNI?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz)
+#### [ADVANCED 4:34:36](https://youtu.be/6G-4oPDxfNI?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz)
 
 |timecode|subject|
 | ------ | ------ |

@@ -16,9 +16,9 @@ CODE MONKEY C#
 |01:01:55|Variables|
 |01:09:22|Variables Companion Project Walkthrough|
 |01:30:30|Data Types|
-01:47:35 If statements, Conditions
-02:02:38 Switch
-02:06:10 Functions
+|01:47:35|If statements, Conditions|
+|02:02:38|Switch|
+|02:06:10|Functions|
 02:21:39 Scope
 02:26:35 Comments
 02:31:03 Arrays, Lists

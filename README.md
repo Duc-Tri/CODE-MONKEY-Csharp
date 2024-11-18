@@ -19,8 +19,8 @@ CODE MONKEY C#
 |01:47:35|If statements, Conditions|
 |02:02:38|Switch|
 |02:06:10|Functions|
-02:21:39 Scope
-02:26:35 Comments
+|02:21:39|Scope|
+|02:26:35|Comments|
 02:31:03 Arrays, Lists
 02:42:15 Loops
 02:57:00 Class

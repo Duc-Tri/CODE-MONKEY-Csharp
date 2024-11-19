@@ -21,11 +21,11 @@ CODE MONKEY C#
 |02:06:10|Functions|
 |02:21:39|Scope|
 |02:26:35|Comments|
-02:31:03 Arrays, Lists
-02:42:15 Loops
-02:57:00 Class
-03:11:22 Static
-03:19:33 Access Modifiers
+|02:31:03|Arrays, Lists|
+|02:42:15|Loops|
+|02:57:00|Class|
+|03:11:22|Static|
+|03:19:33|Access Modifiers|
 03:24:58 Naming Rules
 03:29:54 Clean Code Guidelines
 03:42:52 Beginner Project

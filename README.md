@@ -26,19 +26,19 @@ CODE MONKEY C#
 |02:57:00|Class|
 |03:11:22|Static|
 |03:19:33|Access Modifiers|
-03:24:58 Naming Rules
-03:29:54 Clean Code Guidelines
-03:42:52 Beginner Project
-03:53:35 Beginner Summary
-03:55:32 Outro
+|03:24:58|Naming Rules|
+|03:29:54|Clean Code Guidelines|
+|03:42:52|Beginner Project|
+|03:53:35|Beginner Summary|
+|03:55:32|Outro|
 
 #### [INTERMEDIATE 4:08:38](https://youtu.be/I6kx-_KXNz4)
 
 |timecode|subject|
 | ------ | ------ |
 |00:00:00|Intro|
-00:06:26 Intermediate Intro
-00:07:39 Intermediate Overview
+|00:06:26|Intermediate Intro|
+|00:07:39|Intermediate Overview|
 00:11:08 Visual Studio Shortcuts
 00:27:39 Refactoring
 00:30:01 Enums

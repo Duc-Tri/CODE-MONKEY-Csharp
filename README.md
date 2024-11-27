@@ -42,9 +42,9 @@ CODE MONKEY C#
 |00:11:08|Visual Studio Shortcuts|
 |00:27:39|Refactoring|
 |00:30:01|Enums|
-00:37:53 Properties
-00:44:51 Multi-Dimensional Arrays
-00:52:46 Nested Loops
+|00:37:53|Properties|
+|00:44:51|Multi-Dimensional Arrays|
+|00:52:46|Nested Loops|
 00:58:42 Recursion
 01:04:12 Dictionary
 01:12:45 Other Collections

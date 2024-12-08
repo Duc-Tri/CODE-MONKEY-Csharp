@@ -45,12 +45,12 @@ CODE MONKEY C#
 |00:37:53|Properties|
 |00:44:51|Multi-Dimensional Arrays|
 |00:52:46|Nested Loops|
-00:58:42 Recursion
-01:04:12 Dictionary
-01:12:45 Other Collections
-01:18:16 Params
-01:20:55 Optional Parameters
-01:25:42 Value Types vs Reference Types
+|00:58:42|Recursion|
+|01:04:12|Dictionary|
+|01:12:45|Other Collections|
+|01:18:16|Params|
+|01:20:55|Optional Parameters|
+|01:25:42|Value Types vs Reference Types|
 01:34:53 Struct
 01:41:53 Class Intermediate
 01:59:49 Interfaces

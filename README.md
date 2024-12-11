@@ -51,8 +51,8 @@ CODE MONKEY C#
 |01:18:16|Params|
 |01:20:55|Optional Parameters|
 |01:25:42|Value Types vs Reference Types|
-01:34:53 Struct
-01:41:53 Class Intermediate
+|01:34:53|Struct|
+|01:41:53|Class Intermediate|
 01:59:49 Interfaces
 02:11:27 is as casting
 02:19:49 Switch Pattern Matching

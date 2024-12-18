@@ -56,9 +56,9 @@ CODE MONKEY C#
 |01:59:49|Interfaces|
 |02:11:27|is as casting|
 |02:19:49|Switch Pattern Matching|
-02:23:03 Delegates
-02:34:37 Local Functions vs Lambda
-02:38:14 Events
+|02:23:03|Delegates|
+|02:34:37|Local Functions vs Lambda|
+|02:38:14|Events|
 02:52:51 Generics
 03:03:48 Constants Readonly
 03:08:32 Try Catch Exceptions

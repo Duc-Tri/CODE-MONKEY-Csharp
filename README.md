@@ -59,15 +59,15 @@ CODE MONKEY C#
 |02:23:03|Delegates|
 |02:34:37|Local Functions vs Lambda|
 |02:38:14|Events|
-02:52:51 Generics
-03:03:48 Constants Readonly
-03:08:32 Try Catch Exceptions
-03:15:36 IEnumerable
-03:24:15 Namespaces
-03:28:27 Singleton Pattern
-03:38:22 Design Patterns
-03:42:43 Intermediate Project
-04:07:40 Outro
+|02:52:51|Generics|
+|03:03:48|Constants Readonly|
+|03:08:32|Try Catch Exceptions|
+|03:15:36|IEnumerable|
+|03:24:15|Namespaces|
+|03:28:27|Singleton Pattern|
+|03:38:22|Design Patterns|
+|03:42:43|Intermediate Project|
+|04:07:40|Outro|
 
 #### [ADVANCED 4:34:36](https://youtu.be/6G-4oPDxfNI?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz)
 

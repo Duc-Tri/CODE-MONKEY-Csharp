@@ -74,16 +74,16 @@ CODE MONKEY C#
 |timecode|subject|
 | ------ | ------ |
 |00:00:00|Intro Advanced C#|
-00:06:49 Advanced Overview
-00:14:55 Reflection
-00:29:17 Function Extensions
-00:34:17 Static Constructor
-00:39:31 typeof
-00:42:18 nameof
-00:46:24 sizeof
-00:50:00 default
-00:54:14 Expression Bodied Members
-00:57:47 Records
+|00:06:49|Advanced Overview|
+|00:14:55|Reflection|
+|00:29:17|Function Extensions|
+|00:34:17|Static Constructor|
+|00:39:31|typeof|
+|00:42:18|nameof|
+|00:46:24|sizeof|
+|00:50:00|default|
+|00:54:14|Expression Bodied Members|
+|00:57:47|Records|
 01:04:05 Null Conditional Operators
 01:09:21 Null Coalescing Operators
 01:15:29 Ternary Conditional Operator

@@ -84,15 +84,15 @@ CODE MONKEY C#
 |00:50:00|default|
 |00:54:14|Expression Bodied Members|
 |00:57:47|Records|
-01:04:05 Null Conditional Operators
-01:09:21 Null Coalescing Operators
-01:15:29 Ternary Conditional Operator
-01:17:29 Main Command Line Arguments
-01:27:03 Nullable
-01:32:40 Span
-01:39:22 Bitwise Operators
-01:47:57 Enum Flags
-01:52:50 Preprocessor Directives
+|01:04:05|Null Conditional Operators|
+|01:09:21|Null Coalescing Operators|
+|01:15:29|Ternary Conditional Operator|
+|01:17:29|Main Command Line Arguments|
+|01:27:03|Nullable|
+|01:32:40|Span|
+|01:39:22|Bitwise Operators|
+|01:47:57|Enum Flags|
+|01:52:50|Preprocessor Directives|
 02:02:36 ref out in
 02:14:54 Data Boxing
 02:18:52 Dynamic

@@ -93,14 +93,14 @@ CODE MONKEY C#
 |01:39:22|Bitwise Operators|
 |01:47:57|Enum Flags|
 |01:52:50|Preprocessor Directives|
-02:02:36 ref out in
-02:14:54 Data Boxing
-02:18:52 Dynamic
-02:27:21 Class Indexer
-02:31:51 Attributes
-02:38:02 Anonymous Types
-02:50:51 Tuples
-02:59:02 using IDisposable
+|02:02:36|ref out in|
+|02:14:54|Data Boxing|
+|02:18:52|Dynamic|
+|02:27:21|Class Indexer|
+|02:31:51|Attributes|
+|02:38:02|Anonymous Types|
+|02:50:51|Tuples|
+|02:59:02|using IDisposable|
 03:03:23 Custom Override Operators
 03:13:28 LINQ
 03:21:13 WinForms

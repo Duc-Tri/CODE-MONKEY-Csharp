@@ -101,13 +101,13 @@ CODE MONKEY C#
 |02:38:02|Anonymous Types|
 |02:50:51|Tuples|
 |02:59:02|using IDisposable|
-03:03:23 Custom Override Operators
-03:13:28 LINQ
-03:21:13 WinForms
-03:30:45 DLLImport, extern, WinAPI
-03:37:14 Assert, Unit Testing
-03:43:28 unsafe, pointers
-03:53:45 async await Task
-04:08:06 Multithreading
-04:24:58 Advanced Summary
-04:33:18 Advanced C# Outro
+|03:03:23|Custom Override Operators|
+|03:13:28|LINQ|
+|03:21:13|WinForms|
+|03:30:45|DLLImport, extern, WinAPI|
+|03:37:14|Assert, Unit Testing|
+|03:43:28|unsafe, pointers|
+|03:53:45|async await Task|
+|04:08:06|Multithreading|
+|04:24:58|Advanced Summary|
+|04:33:18|Advanced C# Outro|
